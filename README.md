@@ -1,4 +1,27 @@
 # LogiCommand Pro — Logistics Operations Platform
+## 🌐 Live Project Link
+
+🔗 Live Website: https://kunal-2001-12.github.io/logistics-operations-platform/
+
+---
+
+## Legal Ownership & Copyright Notice
+
+© 2026 Kunal Sur — All Rights Reserved
+
+This platform, including its design, structure, workflows, content presentation, and implementation, is the exclusive intellectual property of Kunal Sur.
+
+Unauthorized use, reproduction, redistribution, copying, or modification of this website or any of its major parts without direct permission is strictly prohibited.
+
+Any individual, team, or organization using this website without authorization may face appropriate consequences and legal action.
+
+---
+
+## Project Owner
+
+Developed and Maintained by
+**Kunal Sur**
+B.Tech Graduate | Industrial Operations | Logistics Systems | Data Analytics | Steel & Energy Industry
 
 ## Overview
 LogiCommand Pro is a comprehensive logistics operations platform designed to streamline, monitor, and manage logistics workflows for industrial supply chains. This platform provides real-time tracking, trip management, vendor and fleet management, document handling, and alerting for logistics operations.
